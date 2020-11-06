@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-color: black;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+}

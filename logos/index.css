@@ -1,0 +1,13 @@
+body{
+    margin:0;
+}
+
+.lines{
+    stroke:'black';
+    stroke-width: 10px;
+}
+
+.lines path{
+    stroke:'blue';
+    stroke-linejoin: round;
+}
